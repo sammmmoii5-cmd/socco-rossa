@@ -1,0 +1,186 @@
+{
+  "season": "2026/27",
+  "competition": "CSI Como · Open M / Serie C · Girone D",
+  "lastUpdated": null,
+  "source": "Calendario ufficiale CSI Como fornito per il sito",
+  "matches": [
+    {
+      "date": "2026-10-05",
+      "time": "21:15",
+      "home": "Socco Rossa",
+      "away": "U.S. Vertematese - Blu",
+      "field": "Campo Sportivo Parrocchiale di Socco, Via Don A. Sassi, 23 - 22073 Fino Mornasco (CO)",
+      "venue": "Casa"
+    },
+    {
+      "date": "2026-10-12",
+      "time": "21:30",
+      "home": "Time To Play - Loft Erba",
+      "away": "Socco Rossa",
+      "field": "C.S. di Pusiano, Via Rosmini - 22030 Eupilio (CO)",
+      "venue": "Trasferta"
+    },
+    {
+      "date": "2026-10-19",
+      "time": "21:15",
+      "home": "Socco Rossa",
+      "away": "Fecchio Calcio - Next Gen",
+      "field": "Campo Sportivo Parrocchiale di Socco, Via Don A. Sassi, 23 - 22073 Fino Mornasco (CO)",
+      "venue": "Casa"
+    },
+    {
+      "date": "2026-10-28",
+      "time": "21:15",
+      "home": "Or. Solbiate D.S.",
+      "away": "Socco Rossa",
+      "field": "Campo Sportivo Oratorio Solbiate, Piazza Roma 1 - 22043 Solbiate con Cagno (CO)",
+      "venue": "Trasferta"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "21:15",
+      "home": "Socco Rossa",
+      "away": "G.S. Arco Lomazzo B",
+      "field": "Campo Sportivo Parrocchiale di Socco, Via Don A. Sassi, 23 - 22073 Fino Mornasco (CO)",
+      "venue": "Casa"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "21:30",
+      "home": "Olimpia Calcio Cadorago",
+      "away": "Socco Rossa",
+      "field": "Oratorio, Piazza Don Antonio Casnati - 22071 Cadorago (CO)",
+      "venue": "Trasferta"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "21:15",
+      "home": "Socco Rossa",
+      "away": "G.S. Grisoni City",
+      "field": "Campo Sportivo Parrocchiale di Socco, Via Don A. Sassi, 23 - 22073 Fino Mornasco (CO)",
+      "venue": "Casa"
+    },
+    {
+      "date": "2026-11-23",
+      "time": "21:30",
+      "home": "Time To Play- Bfa Bindella",
+      "away": "Socco Rossa",
+      "field": "C.S. di Pusiano, Via Rosmini - 22030 Eupilio (CO)",
+      "venue": "Trasferta"
+    },
+    {
+      "date": "2026-11-30",
+      "time": "21:15",
+      "home": "Socco Rossa",
+      "away": "Polisportiva Senna",
+      "field": "Campo Sportivo Parrocchiale di Socco, Via Don A. Sassi, 23 - 22073 Fino Mornasco (CO)",
+      "venue": "Casa"
+    },
+    {
+      "date": "2026-12-08",
+      "time": "21:00",
+      "home": "Virtus Back",
+      "away": "Socco Rossa",
+      "field": "Oratorio Asnago di Cermenate, Via Don Felice Borghi - 22072 Cermenate (Frazione Asnago) (CO)",
+      "venue": "Trasferta"
+    },
+    {
+      "date": "2026-12-14",
+      "time": "21:15",
+      "home": "Grandate A",
+      "away": "Socco Rossa",
+      "field": "C.S. Comunale San Pos, Via San Pos, 6 - 22070 Grandate (CO)",
+      "venue": "Trasferta"
+    },
+    {
+      "date": "2027-02-15",
+      "time": "21:00",
+      "home": "U.S. Vertematese - Blu",
+      "away": "Socco Rossa",
+      "field": "C.S. Anisio Melli, Via Abazzia - 22070 Vertemate con Minoprio (CO)",
+      "venue": "Trasferta"
+    },
+    {
+      "date": "2027-02-22",
+      "time": "21:15",
+      "home": "Socco Rossa",
+      "away": "Time To Play - Loft Erba",
+      "field": "Campo Sportivo Parrocchiale di Socco, Via Don A. Sassi, 23 - 22073 Fino Mornasco (CO)",
+      "venue": "Casa"
+    },
+    {
+      "date": "2027-03-01",
+      "time": "21:00",
+      "home": "Fecchio Calcio - Next Gen",
+      "away": "Socco Rossa",
+      "field": "Oratorio, Via Umberto 1°, 1 - 22060 Cucciago (CO)",
+      "venue": "Trasferta"
+    },
+    {
+      "date": "2027-03-08",
+      "time": "21:15",
+      "home": "Socco Rossa",
+      "away": "Or. Solbiate D.S.",
+      "field": "Campo Sportivo Parrocchiale di Socco, Via Don A. Sassi, 23 - 22073 Fino Mornasco (CO)",
+      "venue": "Casa"
+    },
+    {
+      "date": "2027-03-14",
+      "time": "18:30",
+      "home": "G.S. Arco Lomazzo B",
+      "away": "Socco Rossa",
+      "field": "Or. San Siro, Via Milano 26 - 22074 Lomazzo (CO)",
+      "venue": "Trasferta"
+    },
+    {
+      "date": "2027-03-22",
+      "time": "21:15",
+      "home": "Socco Rossa",
+      "away": "Olimpia Calcio Cadorago",
+      "field": "Campo Sportivo Parrocchiale di Socco, Via Don A. Sassi, 23 - 22073 Fino Mornasco (CO)",
+      "venue": "Casa"
+    },
+    {
+      "date": "2027-04-01",
+      "time": "21:00",
+      "home": "G.S. Grisoni City",
+      "away": "Socco Rossa",
+      "field": "Oratorio - Caslino al Piano, Via IV Novembre, 7 - 22071 Cadorago (CO)",
+      "venue": "Trasferta"
+    },
+    {
+      "date": "2027-04-12",
+      "time": "21:15",
+      "home": "Socco Rossa",
+      "away": "Time To Play- Bfa Bindella",
+      "field": "Campo Sportivo Parrocchiale di Socco, Via Don A. Sassi, 23 - 22073 Fino Mornasco (CO)",
+      "venue": "Casa"
+    },
+    {
+      "date": "2027-04-16",
+      "time": "21:15",
+      "home": "Polisportiva Senna",
+      "away": "Socco Rossa",
+      "field": "Senna Park, Via Della Libertà - 22070 Senna Comasco (CO)",
+      "venue": "Trasferta"
+    },
+    {
+      "date": "2027-04-26",
+      "time": "21:15",
+      "home": "Socco Rossa",
+      "away": "Virtus Back",
+      "field": "Campo Sportivo Parrocchiale di Socco, Via Don A. Sassi, 23 - 22073 Fino Mornasco (CO)",
+      "venue": "Casa"
+    },
+    {
+      "date": "2027-05-03",
+      "time": "21:15",
+      "home": "Socco Rossa",
+      "away": "Grandate A",
+      "field": "Campo Sportivo Parrocchiale di Socco, Via Don A. Sassi, 23 - 22073 Fino Mornasco (CO)",
+      "venue": "Casa"
+    }
+  ],
+  "results": [],
+  "standings": []
+}
